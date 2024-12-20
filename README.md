@@ -1,1 +1,3 @@
+wsl --install
+
 # EBA
